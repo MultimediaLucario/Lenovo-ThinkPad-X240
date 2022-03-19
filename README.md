@@ -4,7 +4,7 @@
 ![5 repository-open-graph-template](https://user-images.githubusercontent.com/72415505/157504683-ed1d592e-519f-405c-86f0-b4015cdd6757.png)
 
 #
-[![macOS](https://img.shields.io/badge/macOS-Big_Sur_11.6.4-red)](https://www.apple.com/macos/big-sur/)
+[![macOS](https://img.shields.io/badge/macOS-Big_Sur_11.6.5-red)](https://www.apple.com/macos/big-sur/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.9-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
